@@ -21,6 +21,7 @@ canvas{
     animation-name:example;
     animation-duration:6s;
     animation-iteration-count:infinite;
+    margin-top:50px;
 }
 @keyframes example{
     from{
